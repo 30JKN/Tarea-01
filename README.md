@@ -8,6 +8,8 @@ Habilidades:
 Lenguajes que domino:
 -PHP
 -Java
+-C#
+-Python
 
 Proyectos desarrollados:
 -Aplicación de control de inventario
